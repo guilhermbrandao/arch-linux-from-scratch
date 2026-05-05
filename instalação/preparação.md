@@ -37,5 +37,6 @@ O sistema foi iniciado em UEFI.
 - runtime: serviços do firmware em execução
 - config_table: tabelas de configuração do sistema
 
-
+### Fonte 
+Arch Linux Wiki - Installation Guide
 
