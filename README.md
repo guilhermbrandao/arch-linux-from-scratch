@@ -6,6 +6,4 @@ Projeto de estudo focado na instalação e configuração do Arch Linux do zero,
 Desenvolver habilidades em Linux, infraestrutura e troubleshooting. 
 
 ### ferramentas
-Nessa etapa inicial irie utilizar VirtualBox e baixar imagem ISO do arch pelo site oficial.
-
-
+Nessa etapa inicial irie utilizar VirtualBox e ISO do arch pelo site oficial.
