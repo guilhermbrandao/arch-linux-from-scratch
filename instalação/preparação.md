@@ -27,7 +27,7 @@ depois de configurar o VirtualBox (exemplos na pasta "configuração.md")
 
 utilizei mesmo comando e obtive esse resultado abaixo: 
 
-O sistema doi iniciado em UEFI.
+O sistema foi iniciado em UEFI.
 
 - <img width="686" height="105" alt="3-particionamento" src="https://github.com/user-attachments/assets/6ac279a5-d287-4701-a360-6ce02df26093" />
 
