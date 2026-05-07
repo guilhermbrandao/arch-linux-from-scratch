@@ -21,10 +21,7 @@ Sistema iniciado em modo BIOS (Legacy)
 Decisão:
 Optado por reiniciar instalação utilizando UEFI para seguir padrão atual, empresas usam isso hoje em dia.
 
-### resultado 2
-
-depois de configurar o VirtualBox (exemplos na pasta "configuração.md") 
-
+### Resultado
 utilizei mesmo comando e obtive esse resultado abaixo: 
 
 O sistema foi iniciado em UEFI.
